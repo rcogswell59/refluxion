@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+_scratch/
+examples/reports/
+.superpowers/
+
+# your own problem folders stay local (only the template is tracked)
+problems/*
+!problems/_template/
